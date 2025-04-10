@@ -15,5 +15,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alan2524&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️Quote Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
