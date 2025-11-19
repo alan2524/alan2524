@@ -1,5 +1,5 @@
    
-# 💫 About Me:
+#
 👋 Hi, I'm Alan<br><br>I'm a student passionate about IoT and Robotics, with a strong interest in Web Development and Reverse Engineering. I love building systems that bridge the physical and digital worlds. Currently, I'm exploring the efficient integration of blockchain into real-world applications to make them more secure and decentralized.<br><br>Let's innovate, break things (and fix them), and build the future : )
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
